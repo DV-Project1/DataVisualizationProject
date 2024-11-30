@@ -21,8 +21,10 @@ This Power BI dashboard explores the relationship between **book formats, genres
 ---
 
 ## 📌 Dashboard Features
+
 ### **Page 1: Book Format Popularity**
-- **Filters:** Select format and age group for dynamic insights.
+![image](https://github.com/user-attachments/assets/0f6737d2-0e4f-48d4-bc11-6c11200bcf08)
+
 - **Visuals:**
   - Horizontal bar charts for age-based format preferences.
   - Stacked bar chart for distribution across age groups.
@@ -30,7 +32,8 @@ This Power BI dashboard explores the relationship between **book formats, genres
   - Summary KPIs for format and age group counts.
 
 ### **Page 2: Genre Popularity by Region**
-- **Filters:** Select country and genre for regional insights.
+![image](https://github.com/user-attachments/assets/330770b5-2621-4584-9707-720c0e8cf1b6)
+
 - **Visuals:**
   - Tree map for book genre distribution across countries.
   - Bar chart for genre popularity in specific regions.
@@ -38,7 +41,8 @@ This Power BI dashboard explores the relationship between **book formats, genres
   - Map visualization to show global genre popularity.
 
 ### **Page 3: Combined Analysis**
-- **Filters:** Select format, genre, age, and country for customized views.
+![image](https://github.com/user-attachments/assets/37260528-ce9d-4414-9329-eb915c4b6f93)
+
 - **Visuals:**
   - Sankey diagram linking genres, formats, and top books.
   - Bar charts for genre preferences by age.
