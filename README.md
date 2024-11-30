@@ -5,6 +5,13 @@ This Power BI dashboard explores the relationship between **book formats, genres
 
 ---
 
+## 📥 File Details
+- **File Name:** `DVProject.pbix`
+- **File Size:** Approx. XX MB
+- **Download:** [Click here](DVProject.pbix) to download the Power BI file.
+- **View Online:** [View the Dashboard Online](https://app.powerbi.com/groups/me/reports/d23c0937-5748-4b5d-984d-616e143034c9/dc077dd7cef129f9f043?experience=power-bi)
+
+---
 ## 📊 Key Questions Answered
 1. **Which book formats are most popular across different age groups?**
    - Comparison of digital, audiobook, and physical formats.
@@ -67,13 +74,6 @@ This Power BI dashboard explores the relationship between **book formats, genres
 - **Genre Popularity:** Children's books are universally popular, with notable regional preferences for arts, sports, and business genres.
 - **Demographic Influence:** Age significantly impacts format and genre preferences, with older age groups favoring physical books and traditional genres.
 
----
-
-## 📥 File Details
-- **File Name:** `DVProject.pbix`
-- **File Size:** Approx. XX MB
-- **Download:** [Click here](DVProject.pbix) to download the Power BI file.
-- **View Online:** [View the Dashboard Online](https://app.powerbi.com/groups/me/reports/d23c0937-5748-4b5d-984d-616e143034c9/dc077dd7cef129f9f043?experience=power-bi)
 
 ---
 
